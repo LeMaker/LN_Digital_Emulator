@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+import LN_Digital_Emulator as emu
+LNd = emu.LNdigitals()

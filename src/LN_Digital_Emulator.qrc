@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/Lemaker_logo_smallcrop.png</file>
+        <file>../images/LN_Digital.png</file>
+        <file>../images/LN_led_on.png</file>
+    </qresource>
+</RCC>
